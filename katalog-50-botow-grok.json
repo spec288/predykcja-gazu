@@ -1,0 +1,920 @@
+[
+  {
+    "rank": 1,
+    "name": "Dr Eggbot",
+    "slug": "dr-eggbot",
+    "specialization": "Budowa botów / Engineering",
+    "author": "@poteto",
+    "install_count": 717,
+    "categories": [
+      "Engineering",
+      "Ops"
+    ],
+    "description_pl": "Projektant botów Grok. Zadaje kilka pytań o preferencje, potem tworzy bota przez CreateAgent. Boty kodujące dostają poprzeczkę poteto-mode: jedno zadanie, bez slopu, z weryfikacją. Boty niekodujące tę samą ścisłość: jedna robota, jeden głos, jawne anti-jobs, zero zbędnych narzędzi. Ton luźny, lekko mad-scientist, krótkie lowercase. Działa, gdy zadanie jest jasne. Domyślnie nie robi szablonów do udostępniania.",
+    "description_en": "Designs high-quality Grok Bots. Asks a few preference questions, then creates them with CreateAgent. Coding bots get the poteto-mode bar (one job, unslopped, verified). Non-coding bots get the same tightness: one job, one voice, explicit anti-jobs, no leftover tools. Casual, a little mad-scientist, short lowercase. Bias to act once the job is clear. Does not default to shareable templates.",
+    "copy_url": "https://x.ai/bot/_jOdbfkB16zxu7MRcmReE",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=_jOdbfkB16zxu7MRcmReE",
+    "directory_url": "https://grokbots.best/bots/dr-eggbot",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 2,
+    "name": "last30days",
+    "slug": "last30days",
+    "specialization": "Research / social listening",
+    "author": "@mvanhorn",
+    "install_count": 587,
+    "categories": [
+      "Research",
+      "Marketing"
+    ],
+    "description_pl": "Bada, co ludzie naprawdę mówią o dowolnym temacie w ostatnich 30 dniach. Instaluje najnowszy skill last30days z GitHuba, przeprowadza setup (ScrapeCreators przez GitHub — darmowe kredyty, X, YouTube i darmowe CLI), potem pisze ugruntowany brief z Reddit, X, YouTube, TikTok, Hacker News, Polymarket, GitHub i sieci. Co 30 dni sprawdza nową wersję skilla.",
+    "description_en": "Research what people actually say about any topic in the last 30 days. Installs the latest last30days skill from GitHub, walks first-run setup (ScrapeCreators via GitHub for the full free credits, X, YouTube, and the free CLIs), then writes a grounded brief from Reddit, X, YouTube, TikTok, Hacker News, Polymarket, GitHub, and the web. Checks GitHub for a new skill version every 30 days.",
+    "copy_url": "https://x.ai/bot/ANv3NrqPfRcS9PdXku7h8",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=ANv3NrqPfRcS9PdXku7h8",
+    "directory_url": "https://grokbots.best/bots/last30days",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 3,
+    "name": "Site Audit",
+    "slug": "site-audit",
+    "specialization": "SEO / audyt stron",
+    "author": "@unicodef1wn",
+    "install_count": 237,
+    "categories": [
+      "SEO",
+      "Marketing"
+    ],
+    "description_pl": "Jednoprzebiegowy audyt strony: SEO, treść, prędkość, dostępność, CRO i schema. Ocena z priorytetami P0/P1/P2 i URL-ami dowodów. Miesięczny diff. Nie wymyśla metryk.",
+    "description_en": "SEO + content + speed + a11y + CRO + schema audit. Scored, P0/P1/P2, evidence URLs. Monthly diff. No invented metrics.",
+    "copy_url": "https://x.ai/bot/s6JVFYDIDMsCQMBeTcznW",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=s6JVFYDIDMsCQMBeTcznW",
+    "directory_url": "https://grokbots.best/bots/site-audit",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 4,
+    "name": "Cursor Agent",
+    "slug": "cursor-agent",
+    "specialization": "Engineering / lokalny coding",
+    "author": "@unicodef1wn",
+    "install_count": 177,
+    "categories": [
+      "Engineering"
+    ],
+    "description_pl": "Lokalny builder. Odpalą cursor-agent CLI na laptopie użytkownika do eksperymentów i pracy „na hali”. Cloud agenci zostają domyślni do PR-ów na GitHubie. Bez deploy, submit ani wysyłki bez Twojego tak.",
+    "description_en": "Local-only builder. Runs cursor-agent CLI on the user's laptop for experiments and a shop-floor CLI. Cloud agents stay the default for GitHub PRs. No deploy, submit, or send without the user's yes.",
+    "copy_url": "https://x.ai/bot/z4r7D8iILsTQDf7r7DwKR",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=z4r7D8iILsTQDf7r7DwKR",
+    "directory_url": "https://grokbots.best/bots/cursor-agent",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 5,
+    "name": "Product Idea Stress Test",
+    "slug": "product-idea-stress-test",
+    "specialization": "Produkt / founder research",
+    "author": "@hnshah",
+    "install_count": 161,
+    "categories": [
+      "Research",
+      "Sales"
+    ],
+    "description_pl": "Dla founderów: stres-test pomysłu na produkt lub startup. Wypisuje, co musi być prawdą, dowody za i przeciw, założenie najbardziej skłonne zabić ideę oraz najtańszy kolejny test.",
+    "description_en": "Investigates a product or startup idea for founders. Surfaces what has to be true, evidence for and against, the assumption most likely to kill it, and what to test next.",
+    "copy_url": "https://x.ai/bot/JeFTvcDX-7QT2evKGIb52",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=JeFTvcDX-7QT2evKGIb52",
+    "directory_url": "https://grokbots.best/bots/product-idea-stress-test",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 6,
+    "name": "Growth Desk",
+    "slug": "growth-desk",
+    "specialization": "Marketing / wzrost na X",
+    "author": "@Av1dlive",
+    "install_count": 128,
+    "categories": [
+      "Marketing",
+      "Content"
+    ],
+    "description_pl": "Biurko wzrostu na X tylko w trybie draft. Rośnie jedno nazwane konto. Nie researchuje feedu. Nie publikuje postów — dostajesz szkice.",
+    "description_en": "Draft-only X growth desk. You grow one named account. You do not research the feed. You do not post.",
+    "copy_url": "https://x.ai/bot/YYCOE-YeGxnGLb4Mbv7dO",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=YYCOE-YeGxnGLb4Mbv7dO",
+    "directory_url": "https://grokbots.best/bots/growth-desk",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 7,
+    "name": "Research Bot",
+    "slug": "research-bot",
+    "specialization": "Research / first principles",
+    "author": "@ArthurMacwaters",
+    "install_count": 103,
+    "categories": [
+      "Research"
+    ],
+    "description_pl": "Research z first principles. Nie oddaje odpowiedzi z niezweryfikowanym źródłem bez powiedzenia tego wprost — to różnica między researchiem a pewnym akapitem.",
+    "description_en": "Reasons from first principles and refuses to hand back an answer with an unverified source without saying so, which is the difference between research and a confident paragraph.",
+    "copy_url": "https://x.ai/bot/Nn0ykGa3vJ6YS7ib7F6yH",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=Nn0ykGa3vJ6YS7ib7F6yH",
+    "directory_url": "https://grokbots.best/bots/research-bot",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 8,
+    "name": "loops",
+    "slug": "loops",
+    "specialization": "Engineering / outer loop",
+    "author": "@Av1dlive",
+    "install_count": 91,
+    "categories": [
+      "Engineering"
+    ],
+    "description_pl": "Zewnętrzna pętla inżynierska nad agentami kodującymi. Referencja: pstack (how, why, unslop). Pisze prompty w stylu /goal z testowalnym dowodem i prowadzi gather → prompt → launch → review → merge. Ty podajesz repo; bot nigdy nie zgaduje.",
+    "description_en": "Generalized engineering outer loop. Sits above coding agents, uses pstack as reference (how, why, unslop), writes /goal-style prompts with testable proof, and runs gather → prompt → launch → review → merge. You name the repo; it never guesses.",
+    "copy_url": "https://x.ai/bot/Ub3T7usX-c6yRQibQq83P",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=Ub3T7usX-c6yRQibQq83P",
+    "directory_url": "https://grokbots.best/bots/loops",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 9,
+    "name": "AI Harness Assistant",
+    "slug": "ai-harness-assistant",
+    "specialization": "Ops narzędzi AI",
+    "author": "@unicodef1wn",
+    "install_count": 87,
+    "categories": [
+      "Engineering",
+      "Ops"
+    ],
+    "description_pl": "Utrzymuje na Twoich komputerach aktualne harnessy AI, których już używasz (Codex, Claude Code, Grok Build, OpenCode, Cursor i podobne). Aktualizuje tylko zainstalowane narzędzia. Nie dopisuje nowych produktów.",
+    "description_en": "Keep your computers current on AI coding harnesses you already use (Codex, Claude Code, Grok Build, OpenCode, Cursor, and similar). Update installed tools only. Do not add new products.",
+    "copy_url": "https://x.ai/bot/oq-mYZXM23ShlY7UbJWeB",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=oq-mYZXM23ShlY7UbJWeB",
+    "directory_url": "https://grokbots.best/bots/ai-harness-assistant",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 10,
+    "name": "Human Copywriter",
+    "slug": "human-copywriter",
+    "specialization": "Copywriting / content",
+    "author": null,
+    "install_count": 73,
+    "categories": [
+      "Content",
+      "Marketing"
+    ],
+    "description_pl": "Biurko przepisywania na ludzki głos: maile, posty, blogi, DM-y, body landingów i PR. Domyślnie American English. Tylko draft — Ty publikujesz. Nic nie wymyśla. Nie odpowiada na nie zadane pytania. Nie serwuje planów, tierów ani cen. Nie głaszcze i nie napompowuje.",
+    "description_en": "A human-voice rewrite desk for email, posts, blogs, DMs, landing-page bodies, and PR. American English by default. Draft-only: you get a draft, you publish. Invents nothing. Does not answer questions nobody asked. Does not volunteer plans, tiers, or prices. Does not glaze. Does not inflate.",
+    "copy_url": "https://x.ai/bot/JZAccYtlRFvDSU2CnMnkZ",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=JZAccYtlRFvDSU2CnMnkZ",
+    "directory_url": "https://grokbots.best/bots/human-copywriter",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 11,
+    "name": "Brake",
+    "slug": "brake",
+    "specialization": "Ops / kontrola kosztów Grok Bot",
+    "author": "@FantomBuildz",
+    "install_count": 63,
+    "categories": [
+      "Ops",
+      "Finance"
+    ],
+    "description_pl": "Jedyna robota: znaleźć, co pali usage Grok Bota, i nazwać jedno powtarzalne zadanie do zatrzymania.",
+    "description_en": "You are Brake. Your only job is to find what is burning the user's Grok Bot usage and name the one repeating job to stop.",
+    "copy_url": "https://x.ai/bot/ig-dwKjUc7doBIDhiMi9Z",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=ig-dwKjUc7doBIDhiMi9Z",
+    "directory_url": "https://grokbots.best/bots/brake",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 12,
+    "name": "X Brief",
+    "slug": "x-brief",
+    "specialization": "Research / brief z X",
+    "author": "@daniel_mac8",
+    "install_count": 60,
+    "categories": [
+      "Research",
+      "Content"
+    ],
+    "description_pl": "Przy pierwszym czacie łączy X, uczy się z Twoich ostatnich postów, jaki beat Cię obchodzi, potwierdza go, potem flaguje rzeczy, o których chciałbyś wiedzieć. W dni robocze wysyła wieczorny wrap tego, co się ruszyło. Kąty na posty tylko na prośbę.",
+    "description_en": "On first chat, connect X, learn what you actually pay attention to from your recent posts, confirm that beat, then flag things happening there that you'd want to know. Sends a weekday end-of-day wrap of what moved. Post angles only if you ask.",
+    "copy_url": "https://x.ai/bot/GkX6X536UK2MlbkfGLQnb",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=GkX6X536UK2MlbkfGLQnb",
+    "directory_url": "https://grokbots.best/bots/x-brief",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 13,
+    "name": "Alfred (Bot Chief Advisor)",
+    "slug": "alfred-bot-chief-advisor",
+    "specialization": "Ops / organizacja botów",
+    "author": "@heyrobinai",
+    "install_count": 54,
+    "categories": [
+      "Ops"
+    ],
+    "description_pl": "Nie buduje jednego asystenta. Audytuje zestaw botów, który już masz, i przebudowuje organizację wraz ze zmianą biznesu: wycofuje i dodaje boty, gdy praca się przesuwa.",
+    "description_en": "Rather than building one assistant, it audits the set you already have and reshapes the org as the business changes, retiring and adding bots as the work moves.",
+    "copy_url": "https://x.ai/bot/KZ9xav0Qad1U5QigEn7rh",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=KZ9xav0Qad1U5QigEn7rh",
+    "directory_url": "https://grokbots.best/bots/alfred-bot-chief-advisor",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 14,
+    "name": "Bounty Hunter",
+    "slug": "bounty-hunter",
+    "specialization": "Finanse / zwroty i należności",
+    "author": "@liam_fallen",
+    "install_count": 47,
+    "categories": [
+      "Finance",
+      "Personal"
+    ],
+    "description_pl": "Szuka pieniędzy, które już są Twoje, ale nieodebrane: pominięte zwroty, zapomniane kredyty, nadpłaty i należności, za którymi nigdy nie poszedłeś.",
+    "description_en": "Goes looking for money that is already yours but unclaimed: missed refunds, forgotten credits, overcharges and things you are owed and never got round to pursuing.",
+    "copy_url": "https://x.ai/bot/gCWYD009F66A3XDEYdZgf",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=gCWYD009F66A3XDEYdZgf",
+    "directory_url": "https://grokbots.best/bots/bounty-hunter",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 15,
+    "name": "figma bro",
+    "slug": "figma-bro",
+    "specialization": "Design / Figma",
+    "author": "@johnbai",
+    "install_count": 47,
+    "categories": [
+      "Design"
+    ],
+    "description_pl": "Projektuje w Figmie. Prawdziwe komponenty, intuicyjny layout i motion, które się zgadza.",
+    "description_en": "Designs in Figma. Real components, intuitive layout, and motion that feels right.",
+    "copy_url": "https://x.ai/bot/VHMdjIGjGpgDSJR7dW6Gz",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=VHMdjIGjGpgDSJR7dW6Gz",
+    "directory_url": "https://grokbots.best/bots/figma-bro",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 16,
+    "name": "Chicken Joe (Surf Report)",
+    "slug": "chicken-joe-surf-report",
+    "specialization": "Lifestyle / surf (NorCal)",
+    "author": "@parker__conrad",
+    "install_count": 45,
+    "categories": [
+      "Personal"
+    ],
+    "description_pl": "Przed Twoim wstaniem przechodzi breaki od Marin County do Santa Cruz, żeby odpowiedź była jedną wiadomością zamiast dziewięciu kart z kamerami i forecastem.",
+    "description_en": "Works through the breaks from Marin County down to Santa Cruz before you are awake, so the answer is one message rather than nine tabs of cams and forecasts.",
+    "copy_url": "https://x.ai/bot/7f5AjmpjZkmTIsSybedYS",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=7f5AjmpjZkmTIsSybedYS",
+    "directory_url": "https://grokbots.best/bots/chicken-joe-surf-report",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 17,
+    "name": "Learning Assistant",
+    "slug": "learning-assistant",
+    "specialization": "Edukacja / tutoring",
+    "author": "@imshiv6t9",
+    "install_count": 44,
+    "categories": [
+      "Personal"
+    ],
+    "description_pl": "Tutor na wiele sesji: uczy tematu przez dni lub tygodnie. Robi wywiad o misji, weryfikuje źródła, pisze cytowane lekcje HTML z quizami i śledzi, czego się nauczyłeś.",
+    "description_en": "A multi-session tutor for learning a topic over days or weeks. It interviews for a mission, vets real sources, writes cited HTML lessons with quizzes, and tracks what you have learned.",
+    "copy_url": "https://x.ai/bot/yE46R6j5vNPhd92fGxZRu",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=yE46R6j5vNPhd92fGxZRu",
+    "directory_url": "https://grokbots.best/bots/learning-assistant",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 18,
+    "name": "Frontier Model Watch",
+    "slug": "frontier-model-watch",
+    "specialization": "Research / modele frontier",
+    "author": "@unicodef1wn",
+    "install_count": 40,
+    "categories": [
+      "Research",
+      "Engineering"
+    ],
+    "description_pl": "Pilnuje oficjalnych release’ów xAI, Anthropic, Google, OpenAI, Moonshot, Alibaba, Zhipu, DeepSeek, MiniMax i Tencent. Start 07:30 EAT. Krótki brief tylko gdy w ostatnich 36 godzinach coś spadło — nazwa, use, open vs closed, cena jeśli znana. Inaczej milczy.",
+    "description_en": "Watches official releases from xAI, Anthropic, Google, OpenAI, Moonshot, Alibaba, Zhipu, DeepSeek, MiniMax, and Tencent. Runs at 07:30 EAT. Sends a short brief only if something new dropped in the last 36 hours — name, use, open vs closed, price if known. Silent otherwise",
+    "copy_url": "https://x.ai/bot/YHqn0iTQuvI-8LC01IP6S",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=YHqn0iTQuvI-8LC01IP6S",
+    "directory_url": "https://grokbots.best/bots/frontier-model-watch",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 19,
+    "name": "Shotcraft",
+    "slug": "shotcraft",
+    "specialization": "Wideo / produkcja promo",
+    "author": "@Tferriere",
+    "install_count": 39,
+    "categories": [
+      "Content",
+      "Design"
+    ],
+    "description_pl": "Kinowy bot wideo produktowego na Remotion. Storyboardy, shot cards, prawdziwe capture’y stron, kamera 2.5D, cięcia zbeatowane i sound design do promo i launchy — nie cienkie UI walkthrough z narracją.",
+    "description_en": "Cinematic Remotion product-video bot. Storyboards, shot cards, real page captures, 2.5D camera, beat-synced cuts, and sound design for promo and launch films — not thin narrated UI walkthroughs.",
+    "copy_url": "https://x.ai/bot/gdZdBNWdgW45IVVU8sv8F",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=gdZdBNWdgW45IVVU8sv8F",
+    "directory_url": "https://grokbots.best/bots/shotcraft",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 20,
+    "name": "Grok Build",
+    "slug": "grok-build",
+    "specialization": "Engineering / Grok Build CLI",
+    "author": "@Teslaconomics",
+    "install_count": 35,
+    "categories": [
+      "Engineering"
+    ],
+    "description_pl": "Odpalą prawdziwe Grok Build CLI do aplikacji, kodu i głębokiego researchu na max effort. Dla kogoś, kto chce Grok Build na komputerze agenta, a nie odpowiedzi z modelu czatu.",
+    "description_en": "Runs the real Grok Build CLI for apps, code, and deep research at maximum effort. For anyone who wants Grok Build on an agent computer instead of answers from the chat model.",
+    "copy_url": "https://x.ai/bot/ZRxm1O9tmizOhriV7GiWL",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=ZRxm1O9tmizOhriV7GiWL",
+    "directory_url": "https://grokbots.best/bots/grok-build",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 21,
+    "name": "Multi-model consensus",
+    "slug": "multi-model-consensus",
+    "specialization": "Multi-model / decyzje",
+    "author": "@Shoshkin",
+    "install_count": 32,
+    "categories": [],
+    "description_pl": "Puszcza Claude Code, Codex i Grok na to samo trudne pytanie — one-shot sanity check albo wielorundową debatę, aż się zgodzą. Do forecastów, krytyk, PRD i decyzji strategicznych.",
+    "description_en": "Runs Claude Code, Codex, and Grok on the same hard question — one-shot sanity checks or multi-round debate until they agree. Built for forecasts, critiques, PRDs, and strategy calls.",
+    "copy_url": "https://x.ai/bot/PrgTl_LbGkXg5d2IcdLvc",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=PrgTl_LbGkXg5d2IcdLvc",
+    "directory_url": "https://grokbots.best/bots/multi-model-consensus",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 22,
+    "name": "GrokBot Optimizer",
+    "slug": "grokbot-optimizer",
+    "specialization": "Ops / optymalizacja floty",
+    "author": "@rjdhardesty",
+    "install_count": 30,
+    "categories": [
+      "Productivity"
+    ],
+    "description_pl": "Pilnuje dryfu i marnotrawstwa w org z wieloma botami. Inwentaryzuje roster, kontrakty i routine’y względem doktryny, potem pisze tylko RFC — sam nic nie patchuje.",
+    "description_en": "Watches a multi-bot Grok org for drift and waste. Inventories roster, contracts, and routines against doctrine, then drafts RFCs only — never applies its own patches.",
+    "copy_url": "https://x.ai/bot/b7m5siCKd6baaWkPihOGa",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=b7m5siCKd6baaWkPihOGa",
+    "directory_url": "https://grokbots.best/bots/grokbot-optimizer",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 23,
+    "name": "Be Happier",
+    "slug": "be-happier",
+    "specialization": "Wellbeing / życie osobiste",
+    "author": "@lennysan",
+    "install_count": 29,
+    "categories": [
+      "Personal"
+    ],
+    "description_pl": "Co tydzień patrzy na mail i kalendarz, potem proponuje 3 konkretne rzeczy, które uczyniłyby Cię szczęśliwszym. Chroni istniejące życie, nie dokłada nowych nawyków.",
+    "description_en": "Looks at your email and calendar each week, then suggests 3 concrete things that would make you happier. Protects existing life, does not add new habits.",
+    "copy_url": "https://x.ai/bot/0VC1XzREXRFGe0hVo-JEG",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=0VC1XzREXRFGe0hVo-JEG",
+    "directory_url": "https://grokbots.best/bots/be-happier",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 24,
+    "name": "떡이",
+    "slug": "bot",
+    "specialization": "Marketing / edytor konta X",
+    "author": "@poteto",
+    "install_count": 29,
+    "categories": [
+      "Marketing",
+      "Content"
+    ],
+    "description_pl": "Edytor konta X. Jedyne zadanie: uczynić to konto lepszym — jedna diagnoza, co naprawdę je trzyma, jeden następny post w Twoim głosie plus cut (czego nie publikować / nie robić).",
+    "description_en": "X account editor. ONLY job: make that X account better — one diagnosis of what is actually holding it back, one next post in their voice, plus the cut (what not to post / not to do).",
+    "copy_url": "https://x.ai/bot/WWh_DzFT09A2-d12tUvj1",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=WWh_DzFT09A2-d12tUvj1",
+    "directory_url": "https://grokbots.best/bots/bot",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 25,
+    "name": "tinkabot",
+    "slug": "tinkabot",
+    "specialization": "Engineering / plugin MCP",
+    "author": "@poteto",
+    "install_count": 28,
+    "categories": [
+      "Engineering"
+    ],
+    "description_pl": "Owija API w plugin Cursor/Agent (MCP + skills). Najpierw kształt danych, najmniejszy scaffold, który działa, dowód lokalnie, potem jedno pytanie o affiliation i publikację do Marketplace albo cursor.directory.",
+    "description_en": "Wraps an API into a Cursor/Agent Plugin (MCP + skills). Data shape first, smallest scaffold that works, prove locally, then ask once for affiliation and publish to Marketplace or cursor.directory.",
+    "copy_url": "https://x.ai/bot/br5f3C4mc75QCMEHaszXd",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=br5f3C4mc75QCMEHaszXd",
+    "directory_url": "https://grokbots.best/bots/tinkabot",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 26,
+    "name": "Meta Grok",
+    "slug": "meta-grok",
+    "specialization": "Research / katalog Grok Bot",
+    "author": "@FrankFindsOut",
+    "install_count": 27,
+    "categories": [
+      "Research"
+    ],
+    "description_pl": "W dni robocze znajduje pięć najpopularniejszych botów Grok na X i wysyła krótki digest do przeczytania w mniej niż minutę.",
+    "description_en": "Finds the five most popular Grok bots on X each weekday and sends a short digest you can skim in under a minute.",
+    "copy_url": "https://x.ai/bot/HAhgshU4r50gS81LCcpmk",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=HAhgshU4r50gS81LCcpmk",
+    "directory_url": "https://grokbots.best/bots/meta-grok",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 27,
+    "name": "Newsletter Cleanup",
+    "slug": "newsletter-cleanup",
+    "specialization": "Produktywność / skrzynka mail",
+    "author": "@scheemunai",
+    "install_count": 27,
+    "categories": [
+      "Productivity",
+      "Personal"
+    ],
+    "description_pl": "Wkłada newsletterową kupę w stronę recenzji, którą da się przeczytać, potem działa na Twoich decyzjach. Wypisuje z list zamiast kasować, więc nic nie znika z poczty.",
+    "description_en": "Buckets everything into a review page you can actually read, then acts on your decisions. It unsubscribes rather than deletes, so nothing disappears from your mail.",
+    "copy_url": "https://x.ai/bot/dHd69sBvMG2o3lJa__T7K",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=dHd69sBvMG2o3lJa__T7K",
+    "directory_url": "https://grokbots.best/bots/newsletter-cleanup",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 28,
+    "name": "Grok Bot Coach",
+    "slug": "grok-bot-coach",
+    "specialization": "Ops / audyt i strojenie botów",
+    "author": "@Av1dlive",
+    "install_count": 25,
+    "categories": [
+      "Ops"
+    ],
+    "description_pl": "Projektuje, audytuje i stroi boty Grok, żeby były używalne. Start od konkretnej roboty w profilu, właściwych connectorów, routine’ów na powtarzalną pracę i głosu, który robi robotę zamiast przeprowadzać wywiad. Przy pierwszym uruchomieniu ogląda istniejące boty i zaciska najsłabszy. Mówi dokładnie, co zmienić, i stosuje zmianę, jeśli poprosisz o tighten. Nie tworzy nowych botów bez prośby. Nigdy nie wkłada imienia, rodziny, handle’i ani prywatnych preferencji do opisu share’owalnego.",
+    "description_en": "Help you design, audit, and tune Grok bots so they are usable and helpful. Start from a concrete job in the profile, the right connectors, standing routines for anything that repeats, and a voice that does the work instead of interviewing. On first run, inspect the user's existing bots and tighten the weakest one. When looking at a bot, say exactly what to change, then apply it if they asked to tighten. Do not create new bots unless they ask. Never put someone's name, family, handles, or private prefs into a shareable description.",
+    "copy_url": "https://x.ai/bot/BrjELcmSwatjRc8DYjtrT",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=BrjELcmSwatjRc8DYjtrT",
+    "directory_url": "https://grokbots.best/bots/grok-bot-coach",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 29,
+    "name": "Radar",
+    "slug": "radar",
+    "specialization": "Lokalne newsy / civic",
+    "author": "@LatchKeyLegend",
+    "install_count": 25,
+    "categories": [],
+    "description_pl": "Lokalny watcher publicznych feedów miasta i hrabstwa. Przy starcie pyta o city, state i ZIP, potem dostarcza karty weekend / wallet / street z publicznych rekordów, kalendarzy i newsów.",
+    "description_en": "Local public-feed watcher for your city and county. Asks for city, state, and ZIP on first run, then delivers weekend / wallet / street cards from public records, calendars, and news.",
+    "copy_url": "https://x.ai/bot/2cB1nlHWzI7os1zaZ3kCg",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=2cB1nlHWzI7os1zaZ3kCg",
+    "directory_url": "https://grokbots.best/bots/radar",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 30,
+    "name": "AI Master",
+    "slug": "ai-master",
+    "specialization": "Produktywność / 4 modele",
+    "author": "@leoclark",
+    "install_count": 24,
+    "categories": [
+      "Productivity"
+    ],
+    "description_pl": "Wysyła każde pytanie do ChatGPT, Claude, Gemini i Grok w przeglądarce, potem zwraca jedno połączone podsumowanie — bez kopiowania między czterema czatami.",
+    "description_en": "Sends each question to ChatGPT, Claude, Gemini, and Grok in the browser, then returns one combined summary so you don’t have to copy-paste across four chats.",
+    "copy_url": "https://x.ai/bot/L6q8qCzomu2lTs9mu_r1X",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=L6q8qCzomu2lTs9mu_r1X",
+    "directory_url": "https://grokbots.best/bots/ai-master",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 31,
+    "name": "Clip Bot",
+    "slug": "clip-bot",
+    "specialization": "Content / klipy z YouTube",
+    "author": "@ThisWeeknAI",
+    "install_count": 24,
+    "categories": [
+      "Content",
+      "Marketing"
+    ],
+    "description_pl": "Tnie social-ready highlighty podcastów z YouTube: klipy 16:9 z karaoke captions i kartą źródła, potem zrzuca plik na Twój komputer.",
+    "description_en": "Cuts social-ready podcast highlights from YouTube: captioned 16:9 clips with karaoke captions and a source card, then drops the file on your computer.",
+    "copy_url": "https://x.ai/bot/Vk0cnF2c364QxNv-Xip1M",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=Vk0cnF2c364QxNv-Xip1M",
+    "directory_url": "https://grokbots.best/bots/clip-bot",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 32,
+    "name": "repost X posts everywhere",
+    "slug": "repost-x-posts-everywhere",
+    "specialization": "Social syndication",
+    "author": "@jackfriks",
+    "install_count": 24,
+    "categories": [
+      "Marketing",
+      "Content"
+    ],
+    "description_pl": "Lustrzy nowe posty z X na Threads, LinkedIn, Facebook i Bluesky przez Post Bridge. Dla osób, które publikują na X i chcą, żeby oryginały (oraz text-only quote-tweety) szły automatycznie dalej.",
+    "description_en": "Mirrors new X posts to Threads, LinkedIn, Facebook, and Bluesky through Post Bridge. For people who post on X and want those originals (and text-only quote-tweets) published automatically elsewhere.",
+    "copy_url": "https://x.ai/bot/fu6JIwhLoBvrxtaZik0RP",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=fu6JIwhLoBvrxtaZik0RP",
+    "directory_url": "https://grokbots.best/bots/repost-x-posts-everywhere",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 33,
+    "name": "SEOAgent",
+    "slug": "seoagent",
+    "specialization": "SEO / engineering",
+    "author": "@SEOAgent_",
+    "install_count": 24,
+    "categories": [
+      "SEO",
+      "Marketing",
+      "Engineering"
+    ],
+    "description_pl": "Autonomiczny inżynier SEO napędzany SEOAgent. Bootstrappuje skill i CLI SEOAgent w repo GitHub Twojej strony, potem rośnie organiczny traffic, stosując rekomendacje SEOAgent — albo odrzucając je z powodami.",
+    "description_en": "An autonomous SEO engineer powered by SEOAgent. It bootstraps the SEOAgent skill and CLI in your website’s GitHub repo, then grows organic traffic by applying — or rejecting with reasons — SEOAgent’s recommendations.",
+    "copy_url": "https://x.ai/bot/scYgD9jdFhooaSHihRzy7",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=scYgD9jdFhooaSHihRzy7",
+    "directory_url": "https://grokbots.best/bots/seoagent",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 34,
+    "name": "2nd Brain",
+    "slug": "2nd-brain",
+    "specialization": "Knowledge / drugi mózg",
+    "author": "@LeterryBZH",
+    "install_count": 23,
+    "categories": [
+      "Personal",
+      "Research",
+      "Productivity"
+    ],
+    "description_pl": "Składa wiki w stylu Karpathy Lattice: surowe źródła wchodzą, krótkie strony wychodzą. Odpowiada ze stron, nie z RAG. Brakujące fakty zostają nieznane.",
+    "description_en": "Compiles a Karpathy Lattice wiki: raw sources in, short pages out. Answers from the pages, not RAG. Missing facts stay unknown.",
+    "copy_url": "https://x.ai/bot/c4fYduVVic2YtbcjXquD0",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=c4fYduVVic2YtbcjXquD0",
+    "directory_url": "https://grokbots.best/bots/2nd-brain",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 35,
+    "name": "Apps",
+    "slug": "apps",
+    "specialization": "Engineering / one-shot aplikacje",
+    "author": "@waynesutton",
+    "install_count": 23,
+    "categories": [
+      "Engineering"
+    ],
+    "description_pl": "One-shot aplikacje web na Convex. Mówisz „build me a chat app”, „directory” albo „game” — scaffolduje Vite + React + TypeScript, backend Convex i stawia na static hosting.",
+    "description_en": "One-shot Convex web apps. Say “build me a chat app,” “build me a directory,” or “build me a game,” and it scaffolds Vite + React + TypeScript, a Convex backend, and ships on static hosting.",
+    "copy_url": "https://x.ai/bot/OPLop__-mqSsyQheR5JYv",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=OPLop__-mqSsyQheR5JYv",
+    "directory_url": "https://grokbots.best/bots/apps",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 36,
+    "name": "Google Agent",
+    "slug": "google-agent",
+    "specialization": "Produktywność / Gmail Drive Calendar",
+    "author": "@ryanthawks",
+    "install_count": 23,
+    "categories": [
+      "Productivity"
+    ],
+    "description_pl": "Szuka i czyta mail, pliki i eventy bez ograniczeń, ale zatrzymuje się na wyraźne tak zanim wyśle, skasuje albo przeniesie cokolwiek. Ta asymentria to cały design.",
+    "description_en": "It searches and reads your mail, files and events freely, and stops for an explicit yes before it sends, deletes or moves anything. The asymmetry is the whole design.",
+    "copy_url": "https://x.ai/bot/tttQVA2UtlNwCzITNCIr0",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=tttQVA2UtlNwCzITNCIr0",
+    "directory_url": "https://grokbots.best/bots/google-agent",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 37,
+    "name": "Overheard",
+    "slug": "overheard",
+    "specialization": "Marketing / monitoring wzmianek",
+    "author": "@lennysan",
+    "install_count": 22,
+    "categories": [
+      "SEO",
+      "Productivity",
+      "Marketing"
+    ],
+    "description_pl": "Pilnuje Reddita, Hacker News, serwisów newsowych i X pod kątem wzmianek third-party o Twoim imieniu, brandzie i URL-ach. Wysyła krótki weekday digest, gdy coś przekroczy próg. W martwe dni milczy i nigdy nie postuje w Twoim imieniu.",
+    "description_en": "Watches Reddit, Hacker News, news sites, and X for third-party mentions of your name, brand, and URLs, then sends a short weekday digest when something clears the bar. Stays quiet on dead days and never posts on your behalf.",
+    "copy_url": "https://x.ai/bot/NIEguoGUjA648fUPle8F5",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=NIEguoGUjA648fUPle8F5",
+    "directory_url": "https://grokbots.best/bots/overheard",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 38,
+    "name": "Agent Manager",
+    "slug": "agent-manager",
+    "specialization": "Ops / roster agentów",
+    "author": "@sdrth",
+    "install_count": 21,
+    "categories": [],
+    "description_pl": "Przegląda roster agentów Grok pod kątem nachodzenia ról, cichych biurek i propozycji keep/improve/cut — z dowodami. Tylko proponuje; Ty decydujesz. Nigdy nie kasuje agentów.",
+    "description_en": "Reviews your Grok agent roster for overlaps, quiet desks, and keep/improve/cut proposals — with evidence. Propose only; you decide. Never deletes agents.",
+    "copy_url": "https://x.ai/bot/smAuLZmXktpC5rPOLmq4W",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=smAuLZmXktpC5rPOLmq4W",
+    "directory_url": "https://grokbots.best/bots/agent-manager",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 39,
+    "name": "Love ❤️",
+    "slug": "love",
+    "specialization": "Relacje / partner",
+    "author": "@dannybuck",
+    "install_count": 18,
+    "categories": [
+      "Personal"
+    ],
+    "description_pl": "Zdejmuje admin z bycia dobrym partnerem, żeby uwaga szła tam, gdzie się liczy. Przypomina, researchuje i kolejuje randki, stoliki i prezenty; Ty rezerwujesz, kupujesz i się pojawiasz.",
+    "description_en": "Takes the admin out of being a good Partner so the attention can go where it counts. Reminds, researches, and queues dates, tables, and presents; you book, buy, and show up.",
+    "copy_url": "https://x.ai/bot/qDtCI8WZgVJKbN3rogL8j",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=qDtCI8WZgVJKbN3rogL8j",
+    "directory_url": "https://grokbots.best/bots/love",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 40,
+    "name": "Projects Manager",
+    "slug": "projects-manager",
+    "specialization": "Ops / projekty (Notion)",
+    "author": "@ericzakariasson",
+    "install_count": 18,
+    "categories": [
+      "Ops",
+      "Engineering"
+    ],
+    "description_pl": "Stawia kodera, designera, researchera i writera jako osobne boty, daje każdemu projektowi wiersz i kanał w Notion i pozwala specjalistom brać taski ze wspólnej tablicy.",
+    "description_en": "Spins up a coder, designer, researcher and writer as separate bots, gives each project its own Notion row and channel, and lets the specialists claim tasks off a shared board.",
+    "copy_url": "https://x.ai/bot/FU-Ev6_Ju4lFGWwWRD0GD",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=FU-Ev6_Ju4lFGWwWRD0GD",
+    "directory_url": "https://grokbots.best/bots/projects-manager",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 41,
+    "name": "LiveOdds",
+    "slug": "liveodds",
+    "specialization": "Sport / wyścigi konne",
+    "author": "@MikeMarxmp77",
+    "install_count": 17,
+    "categories": [],
+    "description_pl": "Pilnuje żywych toteboardów wyścigów konnych na Twoich priorytetowych torach, łączy kursy WPS i exotic z pickami handicapperów/modeli, wykrywa scratches i odświeża lean’y zakładów. Zawsze read-only — nigdy nie stawia zakładów.",
+    "description_en": "Watches live horse-racing toteboards for your priority tracks, merges WPS and exotic odds with handicapper/model picks, detects scratches, and refreshes wager leans — always read-only, never places bets.",
+    "copy_url": "https://x.ai/bot/pSJUR7pv54O6hcv5NoA7S",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=pSJUR7pv54O6hcv5NoA7S",
+    "directory_url": "https://grokbots.best/bots/liveodds",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 42,
+    "name": "After I Post",
+    "slug": "after-i-post",
+    "specialization": "Marketing / analityka postów X",
+    "author": "@hnshah",
+    "install_count": 16,
+    "categories": [
+      "Marketing",
+      "Research"
+    ],
+    "description_pl": "Śledzi każdy post na X po publikacji, wyciąga ludzi i idee warte działania i zachowuje dowody, które poprawiają kolejny ruch. Pyta przed jakąkolwiek publiczną akcją.",
+    "description_en": "Follows each X post after publication, surfaces the people and ideas worth acting on, and preserves evidence that improves what happens next. Asks before any public action.",
+    "copy_url": "https://x.ai/bot/WfsP3VQPxB46wzL4nMwGN",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=WfsP3VQPxB46wzL4nMwGN",
+    "directory_url": "https://grokbots.best/bots/after-i-post",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 43,
+    "name": "Bouncer",
+    "slug": "bouncer",
+    "specialization": "Bezpieczeństwo / review share linków",
+    "author": "@bradshannon",
+    "install_count": 16,
+    "categories": [
+      "Security",
+      "Ops"
+    ],
+    "description_pl": "Recenzuje publiczny share link Grok Bota albo wklejony config, zanim go dodasz. Cytuje znaleziska i zwraca CLEAN / WARN / BLOCK-recommended. Sam nic nie dodaje, nie instaluje, nie wydaje i nie postuje.",
+    "description_en": "Reviews a public Grok Bot share link or pasted config before you add it. Quotes findings and returns CLEAN, WARN, or BLOCK-recommended, and does not add, install, spend, or post.",
+    "copy_url": "https://x.ai/bot/cGcG0msqfz7o7J3QMLhbE",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=cGcG0msqfz7o7J3QMLhbE",
+    "directory_url": "https://grokbots.best/bots/bouncer",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 44,
+    "name": "Chief of Staff",
+    "slug": "chief-of-staff",
+    "specialization": "Ops / chief of staff",
+    "author": "@Av1dlive",
+    "install_count": 16,
+    "categories": [
+      "Ops",
+      "Productivity"
+    ],
+    "description_pl": "Chief of Staff. Jeden mózg. Prowadzi dzień osoby i firmę z jednego biurka.",
+    "description_en": "You are the Chief of Staff. One brain. You run the person's day and the company from one desk.",
+    "copy_url": "https://x.ai/bot/d8OshqLZvtcKDcNluPuyo",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=d8OshqLZvtcKDcNluPuyo",
+    "directory_url": "https://grokbots.best/bots/chief-of-staff",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 45,
+    "name": "Critiquito",
+    "slug": "critiquito",
+    "specialization": "Design / krytyka UI",
+    "author": "@mamuso",
+    "install_count": 16,
+    "categories": [
+      "Design"
+    ],
+    "description_pl": "Krytyk product designu. Recenzuje screenshoty interfejsu z perspektywy osoby, która ma z nich korzystać. Nazywa, co jest niejasne, trudne albo bezlitosne, i wybiera jedną poprawkę o największym impakcie.",
+    "description_en": "A product design critic that reviews interface screenshots from the person who has to use them. It names what is unclear, hard, or unforgiving, and picks one highest-impact fix.",
+    "copy_url": "https://x.ai/bot/rt9m-FTkJoGsZzAjsKLPM",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=rt9m-FTkJoGsZzAjsKLPM",
+    "directory_url": "https://grokbots.best/bots/critiquito",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 46,
+    "name": "Adie",
+    "slug": "adie",
+    "specialization": "Zdrowie psychiczne / ADHD",
+    "author": "@TheDevilCloud",
+    "install_count": 15,
+    "categories": [],
+    "description_pl": "Orkiestrator życia przy tarciu ADHD, lęku i depresji — ciepły czat accountability, głęboka pomoc i łagodne routine’y (jedzenie, leki, urodziny). To nie jest terapeuta.",
+    "description_en": "Life orchestrator for ADHD, anxiety, and depression friction — warm accountability chat, deep assistance, and gentle routines (eat, meds, birthdays). Not a therapist.",
+    "copy_url": "https://x.ai/bot/-eXRDBTLTfHxNle9joQRN",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=-eXRDBTLTfHxNle9joQRN",
+    "directory_url": "https://grokbots.best/bots/adie",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 47,
+    "name": "Researchy",
+    "slug": "researchy",
+    "specialization": "Research / fact-check na żywo",
+    "author": "@farzyness",
+    "install_count": 14,
+    "categories": [
+      "Research"
+    ],
+    "description_pl": "Biurko researchu i fact-checku. Każdy przebieg na najnowszym modelu Grok z żywym web searchem. Dla kogoś, kto potrzebuje sourced, datowanych twierdzeń zamiast odpowiedzi tylko z treningu.",
+    "description_en": "A research and fact-check desk that runs every pass on the latest Grok model with live web search. For anyone who needs sourced, dated claims instead of a training-only answer.",
+    "copy_url": "https://x.ai/bot/rQt4W2zO2Gx9lfcBjd1lj",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=rQt4W2zO2Gx9lfcBjd1lj",
+    "directory_url": "https://grokbots.best/bots/researchy",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 48,
+    "name": "Competitor Watch",
+    "slug": "competitor-watch",
+    "specialization": "Wywiad konkurencyjny",
+    "author": "@scheemunai",
+    "install_count": 13,
+    "categories": [
+      "Research"
+    ],
+    "description_pl": "Śledzi strony cen, produktu i hiringu konkurencji i briefuje Cię o prawdziwych zmianach. Start od listy URL-i, które wkleisz.",
+    "description_en": "Tracks competitor pricing, product, and hiring pages and briefs you on real changes. Starts from a list of URLs you paste.",
+    "copy_url": "https://x.ai/bot/aw0Zj54sIsAK7vMnajdz0",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=aw0Zj54sIsAK7vMnajdz0",
+    "directory_url": "https://grokbots.best/bots/competitor-watch",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 49,
+    "name": "Credit Card Max",
+    "slug": "credit-card-max",
+    "specialization": "Finanse / karty i punkty",
+    "author": "@unicodef1wn",
+    "install_count": 13,
+    "categories": [
+      "Finance",
+      "Personal"
+    ],
+    "description_pl": "Doradza, której karty użyć przy konkretnym zakupie, żeby zmaksymalizować punkty, cashback i perki. Śledzi karty, niewykorzystane benefity i źle poprowadzone recurring charges oraz robi miesięczny przegląd utilization.",
+    "description_en": "Advises which credit card to use for a given purchase to maximize points, cash back, and perks. Tracks cards, unused benefits, and misrouted recurring charges, and runs a monthly utilization review.",
+    "copy_url": "https://x.ai/bot/D831qeIZ5QrobdVh-X79U",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=D831qeIZ5QrobdVh-X79U",
+    "directory_url": "https://grokbots.best/bots/credit-card-max",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  },
+  {
+    "rank": 50,
+    "name": "Point Peddler",
+    "slug": "point-peddler",
+    "specialization": "Finanse / mile i redemptions",
+    "author": "@poteto",
+    "install_count": 12,
+    "categories": [
+      "Finance",
+      "Personal"
+    ],
+    "description_pl": "Jedyna robota: punkty z kart i linii lotniczych, żeby decyzja jak bookować nie zajmowała dłużej niż chwilę. Redemptions i mile wylicza za Ciebie, nie przez Ciebie.",
+    "description_en": "Its one job is credit-card and airline points, so you never spend longer than a moment deciding how to book. Redemptions and miles get worked out for you rather than by you.",
+    "copy_url": "https://x.ai/bot/PFD95widaEeqjkYLLUZmD",
+    "app_deeplink": "grokbot://app/v1/bot-template?id=PFD95widaEeqjkYLLUZmD",
+    "directory_url": "https://grokbots.best/bots/point-peddler",
+    "share_http_status": 200,
+    "verified_on": "2026-09-20"
+  }
+]
